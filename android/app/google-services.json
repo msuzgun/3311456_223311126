@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "76201651262",
+    "project_id": "saglikliyasam-963d7",
+    "storage_bucket": "saglikliyasam-963d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76201651262:android:9e15736a49449a0dc8b56f",
+        "android_client_info": {
+          "package_name": "com.msuzgun.saglikli_yasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76201651262-93bkoudqthrdknk4ak8k3nalcj847u5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfDxVRawemHv-BVXkW-a8e2uR2hZeCto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76201651262-93bkoudqthrdknk4ak8k3nalcj847u5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76201651262-4f21ikut7kuop8bft4l2veiduthg7a5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.msuzgun.saglikliYasam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
